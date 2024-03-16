@@ -1,0 +1,2 @@
+# IntegratingESGFactorsInFinancialAssetPricePredictionANaturalLanguageProcessingApproach
+Data Science Master's Thesis 
